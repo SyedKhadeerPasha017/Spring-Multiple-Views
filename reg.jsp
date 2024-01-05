@@ -1,0 +1,1 @@
+<h1 style="color:yellow">WELCOME TO REGISTRATION PAGE</h1>
